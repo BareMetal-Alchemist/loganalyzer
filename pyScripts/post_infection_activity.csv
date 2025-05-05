@@ -1,0 +1,35 @@
+email,ip,mac,timestamp,method,url,hostname,user_agent
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 06 18:54:43,PUT,app,db-94.lopez.clark-delacruz.net,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+jrobinson@securetech.com,10.10.1.7,f9:cb:e3:f4:18:5c,Feb 06 21:15:15,GET,/login,srv-61.kim.johnson.biz,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+jrobinson@securetech.com,10.10.1.7,f9:cb:e3:f4:18:5c,Feb 06 21:15:29,POST,/login,srv-61.kim.johnson.biz,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 07 02:42:32,GET,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 07 02:42:41,POST,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+bbarron@securetech.com,10.10.2.64,30:6e:c4:97:62:cc,Feb 07 04:51:37,GET,/login,srv-61.kim.johnson.biz,Opera/9.88.(X11; Linux i686; cs-CZ) Presto/2.9.188 Version/10.00
+bbarron@securetech.com,10.10.2.64,30:6e:c4:97:62:cc,Feb 07 04:51:48,POST,/login,srv-61.kim.johnson.biz,Opera/9.88.(X11; Linux i686; cs-CZ) Presto/2.9.188 Version/10.00
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 07 05:37:18,GET,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 07 05:37:42,POST,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+pmccoy@securetech.com,10.10.1.33,af:07:b4:cc:ab:5a,Feb 07 06:04:31,GET,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10 5_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/22.0.834.0 Safari/536.2"
+pmccoy@securetech.com,10.10.1.33,af:07:b4:cc:ab:5a,Feb 07 06:05:01,POST,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10 5_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/22.0.834.0 Safari/536.2"
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 07 06:17:55,GET,/login,srv-61.kim.johnson.biz,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 07 06:18:18,POST,/login,srv-61.kim.johnson.biz,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+mbutler@securetech.com,10.10.3.175,5a:b5:b1:96:eb:75,Feb 07 06:59:24,GET,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10 9_4) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/20.0.818.0 Safari/533.0"
+mbutler@securetech.com,10.10.3.175,5a:b5:b1:96:eb:75,Feb 07 06:59:35,POST,/login,srv-61.kim.johnson.biz,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10 9_4) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/20.0.818.0 Safari/533.0"
+jrobinson@securetech.com,10.10.1.7,f9:cb:e3:f4:18:5c,Feb 07 18:31:43,DELETE,list/list/categories,srv-82.adkins-hinton.romero.biz,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+jrobinson@securetech.com,10.10.1.7,f9:cb:e3:f4:18:5c,Feb 08 13:00:43,POST,categories/search,lt-18.washington.com,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 08 16:37:43,TRACE,categories/category/blog,lt-57.reeves.com,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 09 03:51:43,PUT,tag/tag/category,laptop-93.mcgee-miller.com,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+mbutler@securetech.com,10.10.3.175,5a:b5:b1:96:eb:75,Feb 09 15:59:43,TRACE,tags,srv-78.owens-randolph.maldonado.com,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10 9_4) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/20.0.818.0 Safari/533.0"
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 09 23:54:43,HEAD,tags/blog,db-63.cook.com,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 10 03:48:43,GET,posts/main/categories,email-06.espinoza.com,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 10 03:54:43,GET,list/category/category,laptop-21.phillips.info,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 10 10:23:43,GET,category,laptop-68.miller-stanley.org,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 10 10:27:43,PATCH,wp-content,laptop-73.morton.com,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 10 16:39:43,GET,wp-content/main/categories,email-73.petersen-clark.biz,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+bbarron@securetech.com,10.10.2.64,30:6e:c4:97:62:cc,Feb 10 19:21:43,DELETE,main/blog/app,web-81.juarez-raymond.woodward.com,Opera/9.88.(X11; Linux i686; cs-CZ) Presto/2.9.188 Version/10.00
+pmccoy@securetech.com,10.10.1.33,af:07:b4:cc:ab:5a,Feb 10 20:42:43,DELETE,category/categories,lt-22.graham-bates.gill.org,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10 5_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/22.0.834.0 Safari/536.2"
+jball@securetech.com,10.10.1.198,09:9b:bc:9a:9a:1e,Feb 10 21:53:43,HEAD,tags,srv-36.vazquez.wilson.org,Opera/8.37.(Windows NT 6.1; tr-TR) Presto/2.9.169 Version/11.00
+jfoster@securetech.com,10.10.1.234,b7:dc:43:d5:49:ae,Feb 11 00:22:43,TRACE,posts/categories,db-89.mccall.com,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/27.0.890.0 Safari/532.2"
+pmccoy@securetech.com,10.10.1.33,af:07:b4:cc:ab:5a,Feb 11 10:05:43,PUT,blog/category/categories,web-12.garcia.small.info,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10 5_9) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/22.0.834.0 Safari/536.2"
+bbarron@securetech.com,10.10.2.64,30:6e:c4:97:62:cc,Feb 11 19:17:43,PUT,tags/categories,srv-02.mcdonald.chaney-forbes.info,Opera/9.88.(X11; Linux i686; cs-CZ) Presto/2.9.188 Version/10.00
+sritter@securetech.com,10.10.3.185,21:c2:c0:53:3f:ef,Feb 11 20:59:43,TRACE,app/category,laptop-24.baker.org,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10 12_0 rv:5.0; sat-IN) AppleWebKit/531.6.6 (KHTML, like Gecko) Version/4.1 Safari/531.6.6"
+bbarron@securetech.com,10.10.2.64,30:6e:c4:97:62:cc,Feb 11 23:44:43,TRACE,category/explore,desktop-42.garcia.com,Opera/9.88.(X11; Linux i686; cs-CZ) Presto/2.9.188 Version/10.00
